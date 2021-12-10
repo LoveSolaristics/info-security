@@ -1,0 +1,198 @@
+2021-12-10 16:21:20,270 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:21:20,488 DEBUG user_id=2
+2021-12-10 16:21:20,488 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:21:20,488 DEBUG 1
+2021-12-10 16:21:20,494 DEBUG 2
+2021-12-10 16:21:20,496 DEBUG 3
+2021-12-10 16:21:20,497 DEBUG 4
+2021-12-10 16:21:20,497 DEBUG 5
+2021-12-10 16:21:20,497 DEBUG 6
+2021-12-10 16:21:20,682 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:25:47,611 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:25:47,955 DEBUG user_id=2
+2021-12-10 16:25:47,955 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:25:47,963 DEBUG 6
+2021-12-10 16:25:48,155 DEBUG 9
+2021-12-10 16:25:48,155 DEBUG 11
+2021-12-10 16:25:48,157 DEBUG 12
+2021-12-10 16:25:48,160 DEBUG 13
+2021-12-10 16:25:48,171 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:26:09,752 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=true')
+2021-12-10 16:26:09,952 DEBUG user_id=2
+2021-12-10 16:26:09,954 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:26:09,994 DEBUG 6
+2021-12-10 16:26:10,174 DEBUG 9
+2021-12-10 16:26:10,174 DEBUG 11
+2021-12-10 16:26:10,176 DEBUG 12
+2021-12-10 16:26:10,178 DEBUG 13
+2021-12-10 16:26:10,182 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:26:13,223 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:26:13,408 DEBUG user_id=2
+2021-12-10 16:26:13,408 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:26:13,413 DEBUG 6
+2021-12-10 16:26:13,597 DEBUG 9
+2021-12-10 16:26:13,597 DEBUG 11
+2021-12-10 16:26:13,599 DEBUG 12
+2021-12-10 16:26:13,601 DEBUG 13
+2021-12-10 16:26:13,607 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:26:26,843 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:26:27,030 DEBUG user_id=3
+2021-12-10 16:26:27,031 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:26:27,038 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:26:31,435 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=true')
+2021-12-10 16:26:31,591 DEBUG user_id=3
+2021-12-10 16:26:31,591 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:26:31,599 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:26:58,269 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:26:58,429 DEBUG user_id=2
+2021-12-10 16:26:58,430 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:26:58,435 DEBUG 6
+2021-12-10 16:26:58,615 DEBUG 7
+2021-12-10 16:26:58,616 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:27:07,451 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:27:07,611 DEBUG user_id=2
+2021-12-10 16:27:07,612 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:27:07,621 DEBUG 6
+2021-12-10 16:27:07,791 DEBUG 9
+2021-12-10 16:27:07,791 DEBUG 11
+2021-12-10 16:27:07,793 DEBUG 12
+2021-12-10 16:27:07,795 DEBUG 13
+2021-12-10 16:27:07,795 DEBUG 14
+2021-12-10 16:27:07,805 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:27:20,911 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=true')
+2021-12-10 16:27:21,097 DEBUG user_id=2
+2021-12-10 16:27:21,098 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:27:21,108 DEBUG 6
+2021-12-10 16:27:21,298 DEBUG 9
+2021-12-10 16:27:21,298 DEBUG 11
+2021-12-10 16:27:21,300 DEBUG 12
+2021-12-10 16:27:21,301 DEBUG 13
+2021-12-10 16:27:21,305 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:31:06,044 DEBUG request.rel_url=URL('/project')
+2021-12-10 16:31:06,266 DEBUG user_id=2
+2021-12-10 16:31:06,266 DEBUG Handler "ProjectView" has been activated.
+2021-12-10 16:31:06,275 DEBUG Handler "ProjectView" is finish his work.
+2021-12-10 16:31:35,205 DEBUG request.rel_url=URL('/project')
+2021-12-10 16:31:35,365 DEBUG user_id=3
+2021-12-10 16:31:35,366 DEBUG Handler "ProjectView" has been activated.
+2021-12-10 16:31:35,373 DEBUG Handler "ProjectView" is finish his work.
+2021-12-10 16:32:00,746 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 16:32:00,895 DEBUG user_id=3
+2021-12-10 16:32:00,895 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:32:00,904 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:32:11,337 DEBUG request.rel_url=URL('/project/Taxi')
+2021-12-10 16:32:11,506 DEBUG user_id=2
+2021-12-10 16:32:11,506 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:32:11,518 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:32:17,349 DEBUG request.rel_url=URL('/project/Search')
+2021-12-10 16:32:17,504 DEBUG user_id=2
+2021-12-10 16:32:17,504 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:32:17,508 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:33:49,102 DEBUG request.rel_url=URL('/project/Search')
+2021-12-10 16:33:49,356 DEBUG user_id=2
+2021-12-10 16:33:49,356 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:33:49,367 ERROR cannot unpack non-iterable NoneType object error=TypeError('cannot unpack non-iterable NoneType object')
+2021-12-10 16:35:44,574 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=true')
+2021-12-10 16:35:44,766 DEBUG user_id=3
+2021-12-10 16:35:44,766 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:35:44,784 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:35:49,131 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 16:35:49,315 DEBUG user_id=3
+2021-12-10 16:35:49,315 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:35:49,324 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:35:57,226 DEBUG request.rel_url=URL('/project/Lavka?write=false&read=false&grant=false')
+2021-12-10 16:35:57,384 DEBUG user_id=3
+2021-12-10 16:35:57,385 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:35:57,392 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 16:36:23,376 DEBUG request.rel_url=URL('/project/Lavka?write=false&read=true&grant=false')
+2021-12-10 16:36:23,567 DEBUG user_id=1
+2021-12-10 16:36:23,567 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 16:36:23,573 DEBUG 6
+2021-12-10 16:36:23,756 DEBUG 9
+2021-12-10 16:36:23,756 DEBUG 11
+2021-12-10 16:36:23,758 DEBUG 12
+2021-12-10 16:36:23,761 DEBUG 13
+2021-12-10 16:36:23,765 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:07:13,071 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 18:07:13,332 DEBUG user_id=1
+2021-12-10 18:07:13,333 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:07:13,344 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:07:28,025 DEBUG request.rel_url=URL('/project/Lavka?write=true&read=true&grant=false')
+2021-12-10 18:07:28,221 DEBUG user_id=2
+2021-12-10 18:07:28,224 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:07:28,260 DEBUG 6
+2021-12-10 18:07:28,450 DEBUG 9
+2021-12-10 18:07:28,452 DEBUG 11
+2021-12-10 18:07:28,455 DEBUG 12
+2021-12-10 18:07:28,457 DEBUG 13
+2021-12-10 18:07:28,466 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:30:32,012 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:30:32,357 DEBUG user_id=1
+2021-12-10 18:30:32,358 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:30:32,372 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:30:53,240 DEBUG request.rel_url=URL('/project/Lavka_new')
+2021-12-10 18:30:53,471 DEBUG user_id=1
+2021-12-10 18:30:53,471 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:30:53,479 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:33:37,632 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:33:38,045 DEBUG user_id=1
+2021-12-10 18:33:38,046 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:33:38,070 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:33:51,677 DEBUG request.rel_url=URL('/project/Lavka_new')
+2021-12-10 18:33:51,958 DEBUG user_id=1
+2021-12-10 18:33:51,959 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:33:51,976 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:34:53,078 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:34:53,317 DEBUG user_id=1
+2021-12-10 18:34:53,317 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:34:53,340 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:34:55,953 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:34:56,236 DEBUG user_id=1
+2021-12-10 18:34:56,237 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:34:56,241 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:35:00,052 DEBUG request.rel_url=URL('/project/Lavka2')
+2021-12-10 18:35:00,268 DEBUG user_id=1
+2021-12-10 18:35:00,269 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:35:00,280 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:35:34,746 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:35:35,021 DEBUG user_id=1
+2021-12-10 18:35:35,022 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:35:35,041 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:36:45,693 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:36:45,947 DEBUG user_id=1
+2021-12-10 18:36:45,947 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:36:45,959 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:36:55,006 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:36:55,228 DEBUG user_id=2
+2021-12-10 18:36:55,228 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:36:55,230 DEBUG is_admin=True
+2021-12-10 18:36:55,230 ERROR project_update_name_by_name() missing 1 required positional argument: 'user_id' error=TypeError("project_update_name_by_name() missing 1 required positional argument: 'user_id'")
+2021-12-10 18:37:15,935 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:37:16,325 DEBUG user_id=2
+2021-12-10 18:37:16,325 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:37:16,328 DEBUG is_admin=True
+2021-12-10 18:37:16,336 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:37:25,401 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:37:25,670 DEBUG user_id=3
+2021-12-10 18:37:25,670 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:37:25,693 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:37:35,793 DEBUG request.rel_url=URL('/project/Lavka')
+2021-12-10 18:37:36,040 DEBUG user_id=1
+2021-12-10 18:37:36,041 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:37:36,046 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:44:01,780 DEBUG request.rel_url=URL('/project/Search?write=false&read=true&grant=false')
+2021-12-10 18:44:02,005 DEBUG user_id=3
+2021-12-10 18:44:02,005 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:44:02,012 DEBUG 6
+2021-12-10 18:44:02,574 DEBUG 9
+2021-12-10 18:44:02,574 DEBUG 11
+2021-12-10 18:44:02,576 DEBUG 12
+2021-12-10 18:44:02,578 DEBUG 13
+2021-12-10 18:44:02,578 DEBUG 14
+2021-12-10 18:44:02,590 DEBUG Handler "ProjectNameView" is finish his work.
+2021-12-10 18:44:28,538 DEBUG request.rel_url=URL('/project/Search?write=false&read=true&grant=false')
+2021-12-10 18:44:28,736 DEBUG user_id=3
+2021-12-10 18:44:28,737 DEBUG Handler "ProjectNameView" has been activated.
+2021-12-10 18:44:28,744 DEBUG 6
+2021-12-10 18:44:28,945 DEBUG 7
+2021-12-10 18:44:28,945 DEBUG Handler "ProjectNameView" is finish his work.
